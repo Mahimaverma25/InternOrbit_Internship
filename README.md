@@ -1,5 +1,5 @@
 # InternOrbit_Internship
-                                                                      ** level 1
+                                                                      * level 1
 # Task 1: CountDown timer
 Overview:- The Countdown Timer is a simple utility that allows you to track time until a specified event. It counts down from a set amount of time (in seconds, minutes, or hours) and notifies the user when the time is up. The timer is ideal for various applications such as event countdowns, reminders, or timed activities.
 # Features:-
@@ -26,11 +26,24 @@ A simple and responsive web-based temperature converter that allows users to con
 * CSS: For styling and responsiveness.
 * JavaScript: For temperature conversion logic.
 
-                                                                        ** level 2
+                                                                        * level 2
 
 # Task 1:- Portfolio Website
+Welcome to my personal portfolio website! This project showcases my skills, projects, and experience in a clean and responsive design. Built with HTML, CSS, and JavaScript, this portfolio is designed to be visually appealing and user-friendly.https://github.com/Mahimaverma25/Portfolio
 
-                                                                       ** level 3 
+# Features
+* Responsive Design: Works seamlessly on all devices (desktop, tablet, and mobile).
+ * Sections:
+        * Home: A brief introduction and a call-to-action.
+        * About Me: Information about my background, skills, and interests.
+        * Projects: A showcase of my work with descriptions and links.
+        * Contact: A form for visitors to get in touch with me.
+* Interactive Elements:
+* Smooth scrolling navigation.
+* Hover effects on buttons and links.
+* Dynamic project cards with animations.
+
+                                                                       * level 3 
 # Task 1: TO-Do List App
 A simple and intuitive To-Do List application that allows users to manage tasks, track progress, and stay organized. It allows users to add, edit, delete, and mark tasks as completed. This app aims to improve productivity by keeping tasks organized and accessible.
 # Features
